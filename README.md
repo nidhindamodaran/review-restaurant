@@ -1,3 +1,9 @@
+
+## Restaurant Review
+
+restaurant reviewing app (api) built on rails using trailblazers. 
+
+
 ### Run
 
 - `rake db:migrate`
